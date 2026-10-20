@@ -1,0 +1,25 @@
+{
+  "name": "touch-grass-reminder",
+  "version": "1.0.0",
+  "description": "This is a fun little project that I made. It's a discord bot that will tell you five times to get off your computer. You can invite it to your server using the link: https://discord.com/oauth2/authorize?client_id=1561928757600718860&permissions=337920&integration_type=0&scope=bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoquan09/touch-grass-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leoquan09/touch-grass-reminder/issues"
+  },
+  "homepage": "https://github.com/leoquan09/touch-grass-reminder#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.8"
+  }
+}
