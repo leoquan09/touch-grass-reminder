@@ -9,6 +9,10 @@ const commands = [
     {
         name: 'timer',
         description: "Starts a 30 minutes timer and will send a text when your time is up."
+    },
+    {
+        name: 'leaderboard',
+        description: 'Displays the official leigh coding club TOUCH GRASS leaderboard'
     }
 ];
 
